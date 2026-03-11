@@ -1,0 +1,5 @@
+com\mycompany\videojuegosjpa\VideoJuegosJPA.class
+Models\Jugador.class
+Models\Logro.class
+Models\Direccion.class
+Models\Videojuego.class
