@@ -1,6 +1,10 @@
 com\mycompany\dogosobregon\DogosObregon.class
+com\mycompany\dogosobregon\exceptions\IllegalOrphanException.class
 models\HotDog.class
 models\Cliente.class
 models\PedidoDetalle.class
+com\mycompany\dogosobregon\exceptions\PreexistingEntityException.class
 models\MetodoPago.class
+com\mycompany\dogosobregon\exceptions\NonexistentEntityException.class
 models\Pedido.class
+com\mycompany\dogosobregon\ClienteJpaController.class
