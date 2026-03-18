@@ -1,0 +1,6 @@
+com\mycompany\dogosobregon\DogosObregon.class
+models\HotDog.class
+models\Cliente.class
+models\PedidoDetalle.class
+models\MetodoPago.class
+models\Pedido.class
