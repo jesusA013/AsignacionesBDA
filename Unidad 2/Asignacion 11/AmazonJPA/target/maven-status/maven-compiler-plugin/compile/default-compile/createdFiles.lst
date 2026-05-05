@@ -1,0 +1,5 @@
+models\PedidoProducto.class
+com\mycompany\amazonjpa\AmazonJPA.class
+models\Pedido.class
+models\Producto.class
+models\Cliente.class

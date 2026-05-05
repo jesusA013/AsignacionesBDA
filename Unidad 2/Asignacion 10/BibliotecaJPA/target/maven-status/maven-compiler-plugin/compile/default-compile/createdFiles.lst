@@ -1,0 +1,6 @@
+models\Credencial.class
+com\mycompany\bibliotecajpa\BibliotecaJPA.class
+models\Libro.class
+models\Usuario.class
+models\Autor.class
+models\Categoria.class
